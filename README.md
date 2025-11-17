@@ -3,3 +3,7 @@ Day 1: Project / Band Name Generator
 Day 2: Project / Tip Calculator
 Day 3: Project / Treasure Island
 Day 4: Project / Rock Paper Scissors
+Day 5: Project / Password Generator
+
+## READ ME
+I want to clarify that all my projects have been written down by me not AI.
